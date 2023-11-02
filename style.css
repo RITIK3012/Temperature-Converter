@@ -12,9 +12,9 @@ body{
 
 .container{
     max-width:450px;
-    background: #25a021;
+    background: #ffb300;
     border-radius: 8px;
-    box-shadow: 0px 0px 15px 3px rgba(0,0,0,0.4);
+    box-shadow: 0px 0px 15px 3px rgba(0, 0, 0, 0.4);
     font-family: sans-serif;
     padding: 20px;
 }
@@ -57,14 +57,11 @@ input{
     padding: 0 10px;
 }
 
-
-/* for chrome, safari, Edge, Opera */
 input::-webkit-outer-spin-button,
 input::-webkit-inner-spin-button{
     -webkit-appearance: none;
 }
 
-/* for Mozila firefox */
 input{
     -moz-appearance: textfield;
 }
@@ -77,7 +74,7 @@ input{
     padding: 0 5px;
     text-align: center;
     font-size: 30px;
-    background: #4d5964;
+    background: #3089dc;
     color: #fff;
     border-radius: 0 8px 8px 0;
 }
